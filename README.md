@@ -1,2 +1,2 @@
-# homeserver-homeshop
-Outil de gestion des courses à la maison
+# homserver-homebank
+Outil de gestion de compte familiaux
